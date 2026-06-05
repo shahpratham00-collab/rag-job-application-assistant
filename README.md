@@ -112,12 +112,8 @@ Expected output: 25+ tests covering utils, parser, and LLM selector logic.
 
 ---
 
-## ☁️ Deploy to Streamlit Cloud
-
-1. Push to a public GitHub repository
-2. Visit [share.streamlit.io](https://share.streamlit.io) and connect your repo
-3. Set `HUGGINGFACE_API_TOKEN` in **Settings → Secrets**
-4. Deploy — the app runs entirely on HuggingFace's hosted inference
+##  Deploy URL will appear here after Streamlit Cloud deployment
+https://rag-job-application-assistant-snwzr5zwdf8throdarxizd.streamlit.app/
 
 ---
 
